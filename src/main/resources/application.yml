@@ -62,14 +62,6 @@ spring:
     # kimi
     moonshot:
       api-key: XXX
-#    # openai
-#    openai:
-#      api-key: xai-YzPdnzgX3slr0gbRPWJR6UixaH8eC26eiIjlpPiM14Ui2Ym0edJLHNoNdGB2ihyN56EVvRIfUGKIT2FC
-#      base-url: https://api.x.ai/v1/chat/completions
-#      chat:
-#        enabled: true
-#        options:
-#          model: grok-beta
 
 
 #配置mybatis-plus
