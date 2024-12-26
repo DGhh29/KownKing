@@ -80,6 +80,4 @@ mybatis-plus:
       id-type: auto #配置主键自增
 
 
-wxapp:
-  AppID: "wxa2680349da1018fc"
-  AppSecret: "5fd232866740f60baf061a2cf16ddc89"
+
